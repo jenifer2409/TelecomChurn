@@ -4,8 +4,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
-* [Models Built](#model-built)
-* [Acknowledgements](#acknowledgements)
+* [Models Built](#models-built)
+* [Contact](#contact)
 
 ## General Information
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate.
