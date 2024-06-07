@@ -3,8 +3,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Models Built](#model-built)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
